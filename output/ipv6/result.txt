@@ -1,10 +1,9 @@
 🕘️更新时间,#genre#
-2026-10-17 21:27:56,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
+2026-10-20 00:47:58,http://php.jdshipin.com/xztv.php?id=ws$订阅源
 
 📺央视频道,#genre#
 
 📡卫视频道,#genre#
-青海卫视,https://hls-qhmh.lanzhousobey.cn/qhmh/mhds.m3u8$订阅源
 西藏卫视,http://php.jdshipin.com/xztv.php?id=ws$订阅源
 新疆卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225635$订阅源
 云南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226444$订阅源
